@@ -127,5 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+<<<<<<< HEAD
 Resources/
+=======
+
+# Personal files
+Resources/
+.DS_Store
+config.py
+>>>>>>> 2a7f47a15f688690d767f27d7dc86b4a5e87bc14
